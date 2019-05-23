@@ -18,6 +18,7 @@ import org.testng.annotations.Test;
 
 public class amazon {
 	WebDriver driver;
+	
 
 	@BeforeClass
 	public void openBrowser() {
